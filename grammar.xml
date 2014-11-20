@@ -1,0 +1,16 @@
+<GRAMMAR LANGID="804"><!--此为语音号,中文为804-->
+  <!-- Rule definitions -->
+  <RULE NAME="start" TOPLEVEL="ACTIVE">
+    <O>红队</O>
+    <O>蓝队</O>
+    <RULEREF NAME="team" PROPNAME="teamscore"/>    
+  </RULE>
+
+  <RULE NAME="team">
+    <L PROPNAME="teamscore">
+      <P VAL="1">一分</P>
+      <P VAL="2">两分</P>
+      <P VAL="3">三分</P>
+    </L>
+  </RULE>
+</GRAMMAR>

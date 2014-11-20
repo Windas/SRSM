@@ -1,0 +1,52 @@
+C:\Users\Wind\Desktop\Recognition\Recognition\bin\Debug\Recognition.exe.config
+C:\Users\Wind\Desktop\Recognition\Recognition\bin\Debug\Recognition.exe
+C:\Users\Wind\Desktop\Recognition\Recognition\bin\Debug\Recognition.pdb
+C:\Users\Wind\Desktop\Recognition\Recognition\obj\Debug\Recognition.csprojResolveAssemblyReference.cache
+C:\Users\Wind\Desktop\Recognition\Recognition\obj\Debug\Interop.SpeechLib.dll
+C:\Users\Wind\Desktop\Recognition\Recognition\obj\Debug\Recognition.csproj.ResolveComReference.cache
+C:\Users\Wind\Desktop\Recognition\Recognition\obj\Debug\MainWindow.baml
+C:\Users\Wind\Desktop\Recognition\Recognition\obj\Debug\MainWindow.g.cs
+C:\Users\Wind\Desktop\Recognition\Recognition\obj\Debug\App.g.cs
+C:\Users\Wind\Desktop\Recognition\Recognition\obj\Debug\Recognition_MarkupCompile.cache
+C:\Users\Wind\Desktop\Recognition\Recognition\obj\Debug\Recognition.g.resources
+C:\Users\Wind\Desktop\Recognition\Recognition\obj\Debug\Recognition.Properties.Resources.resources
+C:\Users\Wind\Desktop\Recognition\Recognition\obj\Debug\Recognition.csproj.GenerateResource.Cache
+C:\Users\Wind\Desktop\Recognition\Recognition\obj\Debug\Recognition.exe
+C:\Users\Wind\Desktop\Recognition\Recognition\obj\Debug\Recognition.pdb
+C:\Users\Wind\Desktop\Recognition\Recognition\obj\Debug\Resources\GlassButton.baml
+C:\Users\Jeffery\Desktop\Recognition\Recognition\bin\Debug\Recognition.exe.config
+C:\Users\Jeffery\Desktop\Recognition\Recognition\obj\Debug\Interop.SpeechLib.dll
+C:\Users\Jeffery\Desktop\Recognition\Recognition\obj\Debug\Recognition.csproj.ResolveComReference.cache
+C:\Users\Jeffery\Desktop\Recognition\Recognition\obj\Debug\Recognition.exe
+C:\Users\Jeffery\Desktop\Recognition\Recognition\obj\Debug\Recognition.pdb
+C:\Users\Jeffery\Desktop\Recognition\Recognition\bin\Debug\Recognition.exe
+C:\Users\Jeffery\Desktop\Recognition\Recognition\bin\Debug\Recognition.pdb
+C:\Users\Jeffery\Desktop\Recognition\Recognition\obj\Debug\Recognition.csprojResolveAssemblyReference.cache
+C:\Users\Jeffery\Desktop\Recognition\Recognition\obj\Debug\MainWindow.baml
+C:\Users\Jeffery\Desktop\Recognition\Recognition\obj\Debug\Resources\GlassButton.baml
+C:\Users\Jeffery\Desktop\Recognition\Recognition\obj\Debug\MainWindow.g.cs
+C:\Users\Jeffery\Desktop\Recognition\Recognition\obj\Debug\App.g.cs
+C:\Users\Jeffery\Desktop\Recognition\Recognition\obj\Debug\Recognition_MarkupCompile.cache
+C:\Users\Jeffery\Desktop\Recognition\Recognition\obj\Debug\Recognition.g.resources
+C:\Users\Jeffery\Desktop\Recognition\Recognition\obj\Debug\Recognition.Properties.Resources.resources
+C:\Users\Jeffery\Desktop\Recognition\Recognition\obj\Debug\Recognition.csproj.GenerateResource.Cache
+C:\Users\Jeffery\Desktop\Recognition\Recognition\obj\Debug\Add.baml
+C:\Users\Jeffery\Desktop\Recognition\Recognition\obj\Debug\Add.g.cs
+C:\Users\Wind\Desktop 5\Recognition\Recognition\bin\Debug\Recognition.exe.config
+C:\Users\Wind\Desktop 5\Recognition\Recognition\obj\Debug\Interop.SpeechLib.dll
+C:\Users\Wind\Desktop 5\Recognition\Recognition\obj\Debug\Recognition.csproj.ResolveComReference.cache
+C:\Users\Wind\Desktop 5\Recognition\Recognition\obj\Debug\Recognition.exe
+C:\Users\Wind\Desktop 5\Recognition\Recognition\obj\Debug\Recognition.pdb
+C:\Users\Wind\Desktop 5\Recognition\Recognition\bin\Debug\Recognition.exe
+C:\Users\Wind\Desktop 5\Recognition\Recognition\bin\Debug\Recognition.pdb
+C:\Users\Wind\Desktop 5\Recognition\Recognition\obj\Debug\Recognition.csprojResolveAssemblyReference.cache
+C:\Users\Wind\Desktop 5\Recognition\Recognition\obj\Debug\Add.baml
+C:\Users\Wind\Desktop 5\Recognition\Recognition\obj\Debug\MainWindow.baml
+C:\Users\Wind\Desktop 5\Recognition\Recognition\obj\Debug\Resources\GlassButton.baml
+C:\Users\Wind\Desktop 5\Recognition\Recognition\obj\Debug\Add.g.cs
+C:\Users\Wind\Desktop 5\Recognition\Recognition\obj\Debug\MainWindow.g.cs
+C:\Users\Wind\Desktop 5\Recognition\Recognition\obj\Debug\App.g.cs
+C:\Users\Wind\Desktop 5\Recognition\Recognition\obj\Debug\Recognition_MarkupCompile.cache
+C:\Users\Wind\Desktop 5\Recognition\Recognition\obj\Debug\Recognition.g.resources
+C:\Users\Wind\Desktop 5\Recognition\Recognition\obj\Debug\Recognition.Properties.Resources.resources
+C:\Users\Wind\Desktop 5\Recognition\Recognition\obj\Debug\Recognition.csproj.GenerateResource.Cache

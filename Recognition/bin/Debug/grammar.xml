@@ -1,0 +1,22 @@
+﻿<GRAMMAR LANGID="804">
+  <RULE NAME="start" TOPLEVEL="ACTIVE">
+    <O>保罗</O>
+    <O>格里芬</O>
+    <O>巴恩斯</O>
+    <O>雷迪克</O>
+    <O>小乔丹</O>
+    <O>韦德</O>
+    <O>波什</O>
+    <O>查莫斯</O>
+    <O>巴蒂尔</O>
+    <RULEREF NAME="team" PROPNAME="teamscore" />
+  </RULE>
+  <RULE NAME="team">
+    <L PROPNAME="teamscore">
+      <P VAL="1">一分</P>
+      <P VAL="2">两分</P>
+      <P VAL="3">三分</P>
+      <P VAL="4">犯规</P>
+    </L>
+  </RULE>
+</GRAMMAR>
